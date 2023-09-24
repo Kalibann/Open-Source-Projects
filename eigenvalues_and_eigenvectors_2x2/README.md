@@ -1,0 +1,1 @@
+Script em linguagem C para o cálculo de autovalores e autovetores.
